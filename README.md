@@ -1,5 +1,5 @@
 # OList-Store-Analysis
-
+![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/55bc4ecd9f72ba919daea44965b22af339fa0602/Olist%20logo.jpg)
 ## Introduction
 Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online.The dataset is designed to help analysts and researchers better understand the e-commerce landscape in Brazil and identify opportunities for growth and optimization. To help Olist gain better insights into its e-commerce platform and optimize available opportunities for growth,we will perfom some KPI's and answer some business questions,thereby providing Insights and recommendations.
 
