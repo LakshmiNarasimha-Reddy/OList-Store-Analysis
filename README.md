@@ -13,7 +13,7 @@ Below is the outline of the challenge
 * Share Insights and Make recommendations
 ## Data Schema
 
-## DATA EXPLORATION & VALIDATION
+## Data Exploration & Validation
 I explored the 9 different tables with Excel and from this process, I discovered the dataset had the following quality issues:
 
 * Null & Empty values
