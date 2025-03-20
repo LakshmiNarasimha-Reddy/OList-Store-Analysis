@@ -21,10 +21,3 @@ I explored the 9 different tables with Excel and from this process, I discovered
 * Irrelevant columns
 * Errors in spelling
 
-# DATA EXPLORATION & VALIDATION
-I explored the 9 different tables with Excel and from this process, I discovered the dataset had the following quality issues:
-
-Null & Empty values
-Unwanted special characters
-Irrelevant columns
-Errors in spelling
