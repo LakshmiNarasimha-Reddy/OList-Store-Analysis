@@ -40,5 +40,17 @@ I explored the 9 different tables with Excel and from this process, I discovered
 * Irrelevant columns
 * Errors in spelling.
 
+## Problem Statement
+
+1. Weekday vs Weekend Payment Statistics
+2. Average Shipping Days for different States
+3. Relationship between Shipping days and Review Scores
+4. Number of Orders by Payment Type
+5. Top 10 Seller count States
+6. Top 10 Customer count States
+7. Average Delivery time by Day of the month (OR) Day of the week
+8. Year/Quarter/Month wise Payments
+9. Top 10/Bottom 10 Products by Payments
+10. Order count by Delivery Status
 
 
