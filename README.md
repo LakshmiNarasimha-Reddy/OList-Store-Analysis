@@ -60,4 +60,4 @@ I explored the 9 different tables with Excel and from this process, I discovered
 ![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/7406cf66ae7f194c4bee86df9b255c2706c775e7/Power%20BI%20P1.png)
 
 ## Excel Dashboard
-![image](
+![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/ea83c3be9802e5fbdba4614dfa9fb796c16032eb/Excel%20P1.png)
