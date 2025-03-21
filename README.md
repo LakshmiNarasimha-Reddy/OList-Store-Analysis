@@ -55,3 +55,9 @@ I explored the 9 different tables with Excel and from this process, I discovered
 
 ## Tableau Dashboard
 ![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/56372436684d183b7c8adb25efe3c98454ce61cb/Tableau%20P1.png)
+
+## Power BI Dashboard
+![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/7406cf66ae7f194c4bee86df9b255c2706c775e7/Power%20BI%20P1.png)
+
+## Excel Dashboard
+![image](
