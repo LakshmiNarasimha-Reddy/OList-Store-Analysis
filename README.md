@@ -53,4 +53,5 @@ I explored the 9 different tables with Excel and from this process, I discovered
 9. Top 10/Bottom 10 Products by Payments
 10. Order count by Delivery Status
 
-
+## Tableau Dashboard
+![image](https://github.com/LakshmiNarasimha-Reddy/OList-Store-Analysis/blob/56372436684d183b7c8adb25efe3c98454ce61cb/Tableau%20P1.png)
